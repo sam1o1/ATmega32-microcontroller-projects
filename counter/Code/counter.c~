@@ -1,0 +1,17 @@
+/*
+ * counter.c
+ *
+ * Created: 4/25/2020 11:41:46 PM
+ * Author: eabde
+ */
+
+#include <io.h>
+
+void main(void)
+{
+while (1)
+    {
+    // Please write your application code here
+
+    }
+}
